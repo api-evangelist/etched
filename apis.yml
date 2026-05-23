@@ -1,0 +1,56 @@
+aid: etched
+name: Etched
+description: >-
+  Etched is an AI hardware company building Sohu, a transformer-only ASIC
+  designed to accelerate inference for large language models by hard-wiring
+  the transformer architecture directly into silicon. Etched markets Sohu as
+  an alternative to general-purpose GPUs for transformer inference, claiming
+  order-of-magnitude throughput improvements on models such as Llama 70B
+  when deployed in eight-chip server configurations. The chip is fabricated
+  on TSMC's 4nm process with 144 GB of HBM3E per package. As of mid-2026
+  Etched has raised more than 625 million dollars at a 5 billion dollar
+  valuation but has not yet shipped Sohu to customers in volume, and there
+  is no public Etched API or developer surface. This profile is
+  company-and-product-only and intentionally has an empty apis list.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - AI Hardware
+  - ASIC
+  - Transformer
+  - Inference
+  - Accelerator
+  - Silicon
+  - Pre-Launch
+  - Datacenter
+url: https://raw.githubusercontent.com/api-evangelist/etched/refs/heads/main/apis.yml
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.etched.com
+  - type: ProductPage
+    url: https://www.etched.com/announcing-etched
+  - type: Careers
+    url: https://www.etched.com/careers
+  - type: Blog
+    url: https://www.etched.com/blog
+  - type: Press
+    url: https://www.eenewseurope.com/en/startup-etched-raises-us120m-to-bet-on-transformer-only-asic/
+  - type: Press
+    url: https://www.startupresearcher.com/news/etched-raises-usd500-million-to-challenge-nvidia-with-ai-chip-sohu
+  - type: Press
+    url: https://theaiworld.org/news/etcheds-500m-sohu-chip-takes-aim-at-nvidia
+  - type: TechnicalOverview
+    url: https://awesomeagents.ai/hardware/etched-sohu/
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/etched-ai
+  - type: Twitter
+    url: https://twitter.com/Etched
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
