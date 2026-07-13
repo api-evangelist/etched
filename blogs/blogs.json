@@ -2,11 +2,13 @@
   "repo": "etched",
   "feeds": [
     {
-      "source": "https://www.etched.com/blog",
+      "source": "https://www.etched.com/careers",
+      "feed_url": "https://www.etched.com/careers",
+      "title": "",
       "saved": 0,
-      "error": "HTTP 404 Not Found"
+      "method": "none"
     }
   ],
-  "fetched": "2026-06-27T12:40:16Z",
+  "fetched": "2026-07-11T11:50:51Z",
   "post_count": 0
 }
