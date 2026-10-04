@@ -46,7 +46,7 @@ tags:
   - Accelerator
   - Silicon
   - Pre-Launch
-  - Data-Center
+  - Data Center
 tags_raw:
   - AI Hardware
   - ASIC
@@ -56,6 +56,7 @@ tags_raw:
   - Silicon
   - Pre-Launch
   - Datacenter
+  - Data-Center
 url: https://raw.githubusercontent.com/api-evangelist/etched/refs/heads/main/apis.yml
 created: '2026-05-23'
 modified: '2026-05-23'
